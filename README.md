@@ -5,10 +5,18 @@
 Todoey is an advanced task management application that allows users to create, organize, and track tasks across different categories. Built for iOS, Todoey leverages modern Swift programming practices and the powerful Core Data framework to provide a seamless and responsive user experience.
 
 
-![Todoey Category List, add a new category or task using the `+` button.](https://github.com/chhsch/ToDoList_v2/blob/main/2.jpg)
-![Todoey Item List](https://github.com/chhsch/ToDoList_v2/blob/main/3.jpg)
-![Todoey Add Item Dialog](https://github.com/chhsch/ToDoList_v2/blob/main/1.jpg)
-![Tap a task to toggle its completed status.](https://github.com/chhsch/ToDoList_v2/blob/main/4.jpg))
+<table>
+  <tr>
+    <td><img src="https://github.com/chhsch/ToDoList_v2/blob/main/4.jpg" width="400" height="700"></td>
+    <td><img src="https://github.com/chhsch/ToDoList_v2/blob/main/3.jpg" width="400" height="700"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/chhsch/ToDoList_v2/blob/main/2.jpg" width="400" height="700"></td>
+    <td><img src="https://github.com/chhsch/ToDoList_v2/blob/main/1.jpg" width="400" height="700"></td>
+  </tr>
+</table>
+
+
 
 ## Advanced Features
 
